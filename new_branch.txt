@@ -1,1 +1,2 @@
 it's new_branch.txt
+second content
