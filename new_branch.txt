@@ -2,6 +2,6 @@ it's new_branch.txt
 second content
 third content
 fourth content
-
 sixth at new_branch
 seventh at new_branch
+eight at new_branch
