@@ -4,4 +4,5 @@ third content
 fourth content
 fivth write add master barnch
 sixth at new_branch
+seventh at new_branch
 
