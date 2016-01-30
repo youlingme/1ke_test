@@ -4,3 +4,4 @@ third content
 fourth content
 
 sixth at new_branch
+seventh at new_branch
